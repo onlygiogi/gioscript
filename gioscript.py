@@ -1,7 +1,6 @@
 """
-This script is written by @gioggino:
-- GitHub: https://github.com/gioggino/
-- Instagram: https://www.instagram.com/giogginodev/
+This script is written by @onlygiogi:
+- GitHub: https://github.com/onlygiogi/
 """
 
 # imports
